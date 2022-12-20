@@ -8,7 +8,7 @@ import Trending from "../components/Trending/Trending";
 export default function Home() {
     return (
         <>
-            <Ads />
+            {/* <Ads /> */}
             <div className="xs:px-6 lg:px-20 py-10">
                 <div className="lg:grid md:grid md:grid-cols-12 lg:grid-cols-12 xs:grid xs:gap-6 md:gap-6 lg:gap-6 h-auto ">
                     <div className="md:col-span-3 lg:col-span-3">
