@@ -12,8 +12,7 @@ const LatestPost = () => {
                         src="/images/fifa.webp"
                     />
                     <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                        France Beat Resilient Morocco 2-0 To Set Up Final Clash
-                        With
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
                     </div>
                 </div>
             </div>
@@ -24,8 +23,7 @@ const LatestPost = () => {
                         src="/images/fifa.webp"
                     />
                     <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                        France Beat Resilient Morocco 2-0 To Set Up Final Clash
-                        With
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
                     </div>
                 </div>
             </div>{" "}
@@ -36,8 +34,7 @@ const LatestPost = () => {
                         src="/images/fifa.webp"
                     />
                     <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                        France Beat Resilient Morocco 2-0 To Set Up Final Clash
-                        With
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
                     </div>
                 </div>
             </div>{" "}
@@ -48,8 +45,7 @@ const LatestPost = () => {
                         src="/images/fifa.webp"
                     />
                     <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                        France Beat Resilient Morocco 2-0 To Set Up Final Clash
-                        With
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
                     </div>
                 </div>
             </div>{" "}
@@ -60,8 +56,7 @@ const LatestPost = () => {
                         src="/images/fifa.webp"
                     />
                     <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                        France Beat Resilient Morocco 2-0 To Set Up Final Clash
-                        With
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
                     </div>
                 </div>
             </div>

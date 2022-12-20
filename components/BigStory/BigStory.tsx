@@ -8,8 +8,7 @@ const BigStory = () => {
                 </p>
                 <img src="/images/news1.jpg" />
                 <p className="text-sm font-bold p-2">
-                    On Pappu Jibe, N Sitharaman Hits Back At Trinamools Mahua
-                    Moitra
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 </p>
             </div>
         </>

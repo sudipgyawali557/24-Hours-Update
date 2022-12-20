@@ -9,43 +9,43 @@ const Trending = () => {
                 <div className="bg-white rounded shadow-md">
                     <img src="/images/news1.jpg" className="rounded" />
                     <p className="text-sm font-bold p-4 text-gray-600">
-                        On Pappu Jibe, N Sitharaman Hits Back At Trinamools
-                        Mahua Moitra
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
+                        elit.
                     </p>
                 </div>
                 <div className="bg-white rounded shadow-md">
                     <img src="/images/news1.jpg" className="rounded" />
                     <p className="text-sm font-bold p-4 text-gray-600">
-                        On Pappu Jibe, N Sitharaman Hits Back At Trinamool Mahua
-                        Moitra
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
+                        elit.
                     </p>
                 </div>{" "}
                 <div className="bg-white rounded shadow-md">
                     <img src="/images/news1.jpg" className="rounded" />
                     <p className="text-sm font-bold p-4 text-gray-600">
-                        On Pappu Jibe, N Sitharaman Hits Back At Trinamools
-                        Mahua Moitra
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
+                        elit.
                     </p>
                 </div>{" "}
                 <div className="bg-white rounded shadow-md">
                     <img src="/images/news1.jpg" className="rounded" />
                     <p className="text-sm font-bold p-4 text-gray-600">
-                        On Pappu Jibe, N Sitharaman Hits Back At Trinamools
-                        Mahua Moitra
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
+                        elit.
                     </p>
                 </div>{" "}
                 <div className="bg-white rounded shadow-md">
                     <img src="/images/news1.jpg" className="rounded" />
                     <p className="text-sm font-bold p-4 text-gray-600">
-                        On Pappu Jibe, N Sitharaman Hits Back At Trinamool Mahua
-                        Moitra
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
+                        elit.
                     </p>
                 </div>{" "}
                 <div className="bg-white rounded shadow-md">
                     <img src="/images/news1.jpg" className="rounded" />
                     <p className="text-sm font-bold p-4 text-gray-600">
-                        On Pappu Jibe, N Sitharaman Hits Back At Trinamool Mahua
-                        Moitra
+                        Lorem ipsum dolor, sit amet consectetur adipisicing
+                        elit.
                     </p>
                 </div>
             </div>

@@ -13,7 +13,7 @@ const TopStory = () => {
                             src="/images/news.jpg"
                         />
                         <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                            At UN, Foreign Minister S Jaishankars Veiled
+                            Lorem ipsum dolor, sit amet consectetur adipisicing
                         </div>
                     </div>
                 </div>{" "}
@@ -24,7 +24,7 @@ const TopStory = () => {
                             src="/images/news.jpg"
                         />
                         <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                            At UN, Foreign Minister S Jaishankars Veiled
+                            Lorem ipsum dolor, sit amet consectetur adipisicing
                         </div>
                     </div>
                 </div>{" "}
@@ -35,7 +35,7 @@ const TopStory = () => {
                             src="/images/news.jpg"
                         />
                         <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                            At UN, Foreign Minister S Jaishankars Veiled
+                            Lorem ipsum dolor, sit amet consectetur adipisicing
                         </div>
                     </div>
                 </div>{" "}
@@ -46,7 +46,7 @@ const TopStory = () => {
                             src="/images/news.jpg"
                         />
                         <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                            At UN, Foreign Minister S Jaishankars Veiled
+                            Lorem ipsum dolor, sit amet consectetur adipisicing
                         </div>
                     </div>
                 </div>

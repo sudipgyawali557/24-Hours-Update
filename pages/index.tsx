@@ -22,8 +22,8 @@ export default function Home() {
                                 className="h-auto w-[100%] object-cover object-top rounded-md"
                             />
                             <p className="text-lg font-bold text-center py-2">
-                                At UN, Foreign Minister S Jaishankars Veiled
-                                Attack On China, Pakistan
+                                Lorem ipsum dolor, sit amet consectetur
+                                adipisicing elit.
                             </p>
                         </div>
                         <div className="grid grid-cols-2 gap-4 mt-4">
@@ -33,8 +33,8 @@ export default function Home() {
                                     className="rounded w-full"
                                 />
                                 <p className="text-sm font-bold p-4 text-gray-600">
-                                    Nepal Election Result 2079 Live News Today,
-                                    Latest Updates
+                                    Lorem ipsum dolor, sit amet consectetur
+                                    adipisicing elit.
                                 </p>
                             </div>
                             <div className="bg-white rounded shadow-md">
@@ -43,8 +43,8 @@ export default function Home() {
                                     className="rounded"
                                 />
                                 <p className="text-sm font-bold p-4 text-gray-600">
-                                    Nepal local elections: Small parties will
-                                    also get their election symbols
+                                    Lorem ipsum dolor, sit amet consectetur
+                                    adipisicing elit.
                                 </p>
                             </div>
                         </div>
