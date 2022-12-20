@@ -19,10 +19,9 @@ const Icymi = () => {
                                 Football
                             </h2>
                             <h3 className="text-white font-bold leading-5 text-sm tracking-tight multi_line">
-                                Cristiano Ronaldo and Luis Suarez's tears,
-                                Lionel Messi's trolling… Joel Golby has finally
-                                found joy in schadenfreude at the Qatar World
-                                Cup{" "}
+                                Cristiano Ronaldo and Luis Suarezs tears, Lionel
+                                Messis trolling… Joel Golby has finally found
+                                joy in schadenfreude at the Qatar World Cup{" "}
                             </h3>
                         </div>
                     </div>

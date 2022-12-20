@@ -8,7 +8,7 @@ const BigStory = () => {
                 </p>
                 <img src="/images/news1.jpg" />
                 <p className="text-sm font-bold p-2">
-                    On "Pappu" Jibe, N Sitharaman Hits Back At Trinamool's Mahua
+                    On Pappu Jibe, N Sitharaman Hits Back At Trinamools Mahua
                     Moitra
                 </p>
             </div>

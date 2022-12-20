@@ -22,7 +22,7 @@ export default function Home() {
                                 className="h-auto w-[100%] object-cover object-top rounded-md"
                             />
                             <p className="text-lg font-bold text-center py-2">
-                                At UN, Foreign Minister S Jaishankar's Veiled
+                                At UN, Foreign Minister S Jaishankars Veiled
                                 Attack On China, Pakistan
                             </p>
                         </div>
