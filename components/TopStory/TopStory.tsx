@@ -21,7 +21,7 @@ const TopStory = () => {
                     <div className="flex xs:flex-row xs:items-center sm:flex-col sm:items-start lg:flex-row lg:items-center rounded overflow-hidden h-auto">
                         <img
                             className="block flex-none bg-cover w-[105px] h-[77px] mr-[15px] rounded"
-                            src="/images/news.jpg"
+                            src="/images/news1.jpg"
                         />
                         <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
                             Lorem ipsum dolor, sit amet consectetur adipisicing
@@ -43,7 +43,7 @@ const TopStory = () => {
                     <div className="flex xs:flex-row xs:items-center sm:flex-col sm:items-start lg:flex-row lg:items-center rounded overflow-hidden h-auto">
                         <img
                             className="block flex-none bg-cover w-[105px] h-[77px] mr-[15px] rounded"
-                            src="/images/news.jpg"
+                            src="/images/news1.jpg"
                         />
                         <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
                             Lorem ipsum dolor, sit amet consectetur adipisicing

@@ -27,10 +27,20 @@ export default function Home() {
                     <div className=" lg:col-span-6 md:col-span-6">
                         <div className="bg-white shadow-md rounded-sm">
                             <Link href={"/singlepage"}>
-                                <img
-                                    src="/images/news.jpg"
-                                    className="h-auto w-[100%] object-cover object-top rounded-md"
-                                />
+                                <div className="relative">
+                                    <div className="h-[380px] w-[100%]">
+                                        <img
+                                            src={"/images/oli1.jpg"}
+                                            className="h-[100%] w-[100%] blur-sm object-cover rounded-md"
+                                        />
+                                    </div>
+                                    <div className="absolute top-0 bottom-0 left-0 right-0">
+                                        <img
+                                            src={"/images/oli1.jpg"}
+                                            className="h-[100%] w-[100%] object-contain border border-gray-100 rounded-md"
+                                        />
+                                    </div>
+                                </div>
                             </Link>
                             <Link href={"/singlepage"}>
                                 <p className="text-lg font-bold text-center py-2">
@@ -41,20 +51,40 @@ export default function Home() {
                         </div>
                         <div className="grid grid-cols-2 gap-4 mt-4">
                             <div className="bg-white rounded shadow-md h-fit w-full">
-                                <img
-                                    src="/images/news.webp"
-                                    className="rounded w-full"
-                                />
+                                <div className="relative">
+                                    <div className="h-[160px] w-[100%]">
+                                        <img
+                                            src={"/images/news.webp"}
+                                            className="h-[100%] w-[100%] blur-sm object-cover "
+                                        />
+                                    </div>
+                                    <div className="absolute top-0 bottom-0 left-0 right-0">
+                                        <img
+                                            src={"/images/news.webp"}
+                                            className="h-[100%] w-[100%] object-contain border border-gray-100 rounded"
+                                        />
+                                    </div>
+                                </div>
                                 <p className="text-sm font-bold p-4 text-gray-600">
                                     Lorem ipsum dolor, sit amet consectetur
                                     adipisicing elit.
                                 </p>
                             </div>
                             <div className="bg-white rounded shadow-md">
-                                <img
-                                    src="/images/election.jpg"
-                                    className="rounded"
-                                />
+                                <div className="relative">
+                                    <div className="h-[160px] w-[100%]">
+                                        <img
+                                            src={"/images/election.jpg"}
+                                            className="h-[100%] w-[100%] blur-sm object-cover "
+                                        />
+                                    </div>
+                                    <div className="absolute top-0 bottom-0 left-0 right-0">
+                                        <img
+                                            src={"/images/election.jpg"}
+                                            className="h-[100%] w-[100%] object-contain border border-gray-100 rounded"
+                                        />
+                                    </div>
+                                </div>
                                 <p className="text-sm font-bold p-4 text-gray-600">
                                     Lorem ipsum dolor, sit amet consectetur
                                     adipisicing elit.
