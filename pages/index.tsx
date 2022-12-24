@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Link from "next/link";
 import React from "react";
 import Ads from "../components/Ads/Ads";
@@ -9,6 +10,13 @@ import Trending from "../components/Trending/Trending";
 export default function Home() {
     return (
         <>
+            <Head>
+                <title>24hourupdate</title>
+                <meta
+                    name="viewport"
+                    content="initial-scale=1.0, width=device-width"
+                />
+            </Head>
             <Ads />
             <div className="xs:px-6 lg:px-20 py-10">
                 <div className="lg:grid md:grid md:grid-cols-12 lg:grid-cols-12 xs:grid xs:gap-6 md:gap-6 lg:gap-6 h-auto ">
