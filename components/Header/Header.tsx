@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Navbar from "../Navbar/Navbar";
 
 const Header = () => {
@@ -5,7 +6,9 @@ const Header = () => {
         <>
             <div className="lg:grid xs:grid-cols-1 lg:grid-cols-3 gap-2 xs:px-6 lg:px-20 pb-6">
                 <div className="">
-                    <img src="/images/logopng.png" className="w-[50%]" />
+                    <Link href={"/"}>
+                        <img src="/images/logopng.png" className="w-[50%]" />
+                    </Link>
                     <div className="border-b border-gray-500 w-[100%]"></div>
                     <div className="flex items-center justify-between pt-2">
                         <p className="text-xs text-sky-800 font-semibold">
