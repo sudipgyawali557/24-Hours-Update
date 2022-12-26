@@ -14,10 +14,10 @@ const AdminTopBanner = () => {
                     <p className="text-gray-700">
                         Administration is backbone of an organization. An
                         effective administrator is an asset to an organization.
-                        He or she is the link between an organization's various
-                        departments and ensures the smooth flow of information
-                        from one part to the other. Thus without an effective
-                        administration, an organization would not run
+                        He or she is the link between an organization&apos;s
+                        various departments and ensures the smooth flow of
+                        information from one part to the other. Thus without an
+                        effective administration, an organization would not run
                         professionally and smoothly.
                     </p>
                     <br />
