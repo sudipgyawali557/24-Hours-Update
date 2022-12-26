@@ -12,7 +12,7 @@ const LatestPost = () => {
                         src="/images/fifa.webp"
                     />
                     <div className="text-sm font-bold leading-4 table-cell align-middle relative w-full">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing
+                        Lorem ipsum dolor, sit amet consec adipisicing
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@ const LatestPost = () => {
                     </div>
                 </div>
             </div>{" "}
-            <div className="w-full mb-[24px]">
+            {/* <div className="w-full mb-[24px]">
                 <div className="flex xs:flex-row xs:items-center sm:flex-col sm:items-start lg:flex-row lg:items-center rounded overflow-hidden h-auto">
                     <img
                         className="block flex-none bg-cover w-[105px] h-[77px] mr-[15px] rounded"
@@ -59,7 +59,7 @@ const LatestPost = () => {
                         Lorem ipsum dolor, sit amet consectetur adipisicing
                     </div>
                 </div>
-            </div>
+            </div> */}
         </>
     );
 };

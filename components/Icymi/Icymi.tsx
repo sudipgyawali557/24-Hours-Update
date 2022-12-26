@@ -60,7 +60,9 @@ const Icymi = () => {
                             <h3 className="text-white font-bold leading-5 text-sm tracking-tight multi_line">
                                 Lorem ipsum dolor, sit amet consectetur
                                 adipisicing elit.sit amet consectetur
-                                adipisicing elit.
+                                adipisicing elit. Lorem ipsum dolor, sit amet
+                                consectetur adipisicing elit.sit amet
+                                consectetur adipisicing elit.
                             </h3>
                         </div>
                     </div>

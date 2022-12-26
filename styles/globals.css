@@ -1,13 +1,40 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url("https://fonts.googleapis.com/css2?family=Mukta&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Mukta&display=swap"); */
+@layer components {
+    .btn-primary {
+        @apply py-2 px-4 bg-blue-500 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75;
+    }
+    .slide-pane__content {
+        @apply p-0;
+    }
+    .overlayClassName {
+        z-index: 9999999;
+    }
+}
+
+@layer utilities {
+    .slide-pane__content {
+        padding: 0 !important;
+        @apply p-0;
+    }
+    .overlayClassName {
+        z-index: 9999999;
+    }
+}
+.slide-pane__content {
+    padding: 1.5rem 0.5rem !important;
+}
 html,
 body {
     padding: 0;
     margin: 0;
-    font-family: "Mukta", sans-serif;
-    background-color: #fafafa;
+    /* font-family: "Mukta", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+        "Segoe UI Emoji", "Segoe UI Symbol"; */
+    font-family: "Roboto", sans-serif;
+    background-color: #f6f6f6;
 }
 
 a {
@@ -192,6 +219,80 @@ button span {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
     overflow: hidden;
+}
+.table_row:nth-child(even) {
+    background: rgb(253, 255, 223);
+}
+.table_row:hover {
+    background-color: #ececec;
+    cursor: pointer;
+}
+/*css for custom toastify */
+.Toastify__toast-container {
+    width: auto !important;
+    min-width: 200px !important;
+    max-width: 600px !important;
+    min-height: 10px !important;
+    margin-top: 70px;
+}
+.toastBody {
+    font-size: 14px;
+    font-family: var(--body-font);
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.Toastify__toast {
+    min-height: 10px !important;
+    font-family: "Roboto";
+}
+.toast__msg {
+    display: flex;
+    flex-direction: row;
+    justify-items: flex-start;
+    align-items: center;
+}
+.toast__msg-icon {
+    font-size: 22px !important;
+    margin-right: 8px;
+    color: green;
+}
+/*loader css */
+.lds {
+    display: inline-block;
+    position: relative;
+    width: 20px;
+    height: 20px;
+}
+.lds div {
+    display: inline-block;
+    position: absolute;
+    left: 8px;
+    width: 4px;
+    background: rgb(3, 50, 168);
+    animation: lds 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+}
+.lds div:nth-child(1) {
+    left: 8px;
+    animation-delay: -0.24s;
+}
+.lds div:nth-child(2) {
+    left: 16px;
+    animation-delay: -0.12s;
+}
+.lds div:nth-child(3) {
+    left: 24px;
+    animation-delay: 0;
+}
+@keyframes lds {
+    0% {
+        top: 2px;
+        height: 10px;
+    }
+    50%,
+    100% {
+        top: 8px;
+        height: 14px;
+    }
 }
 @media screen and (max-width: 1024px) {
     .nav-item {
